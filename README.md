@@ -1,1 +1,1 @@
-# VCE-Chatbot
+A chatbot for college placements using DialogFlow
